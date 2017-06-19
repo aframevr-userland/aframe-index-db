@@ -1,0 +1,16 @@
+.component
+.DS_Store
+.env
+.jekyll-metadata
+.public/
+.ruby-version
+.sw[ponm]
+*.log
+/_site
+/.bundle
+/.sass-cache
+/tmp
+/vendor
+Gemfile.lock
+gh-pages
+node_modules

@@ -1,0 +1,14 @@
+{
+  "name": "aframe-index-snapshot",
+  "version": "0.0.1",
+  "description": "A snapshot of the A-Frame Index.",
+  "main": "index.json",
+  "authors": "A-Frame authors",
+  "homepage": "https://github.com/aframevr-userland/aframe-index.json",
+  "repository": "aframevr-userland/aframe-index-json",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/aframevr-userland/aframe-index.json/issues/new"
+  },
+  "scripts": {}
+}
