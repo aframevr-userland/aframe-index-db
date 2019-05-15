@@ -5,8 +5,8 @@ A snapshot of the [A-Frame Index](https://index.aframe.io/).
 
 ## Snapshots
 
-- **[`manifests`](https://index-snapshot.aframe.io/manifests.json)**
-- **[`works`](https://index-snapshot.aframe.io/works.json)**
+- **[`manifests`](./manifests.json)**
+- **[`works`](./works.json)**
 
 
 ## License
